@@ -11,7 +11,7 @@ An interactive, data-backed smart city simulation prototype that bridges live en
 ---
 
 ## 🎯 Sustainable Development Goals (SDGs)
-This prototype supports the modeling and education of key UN SDGs:
+This prototype supports the modeling and education of key UN SDGs :
 *   **SDG 11 (Sustainable Cities and Communities):** Models how cleaner transport and increased green cover reduce urban pollution and heat-island effects.
 *   **SDG 13 (Climate Action):** Evaluates the direct impact of emission-related decisions on live sustainability ratings.
 *   **SDG 7 (Affordable and Clean Energy):** Incorporates renewable energy adoption as a core driver for reducing energy demand.
